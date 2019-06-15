@@ -15,12 +15,12 @@ Written by Jay Schulist <jayschulist@gmail.com>
 ```
 $ python sensorpush.py -u name@email.com -p password
 
-Authentication time: 2019-06-15 12:32:58.095983
-Token time: 2019-06-15 12:33:00.731144
+Authentication time: 2019-06-15 12:40:34.351983
+Token time: 2019-06-15 12:40:38.869282
 Gateways:
-  Shop: version 1.0.9(11), paired, last 2019-06-15T17:31:06.000Z
-  Heeren: version 1.0.9(11), paired, last 2019-06-15T17:32:59.000Z
-  Iola: version 1.0.9(11), paired, last 2019-06-15T17:28:23.000Z
+  Shop: version 1.0.9(11), paired, last 2019-06-15T17:36:06.000Z
+  Heeren: version 1.0.9(11), paired, last 2019-06-15T17:38:10.000Z
+  Iola: version 1.0.9(11), paired, last 2019-06-15T17:38:24.000Z
 Sensors:
   [EF:45:64:38:76:46] 16965, battery 2.82v, active, Iola Intake
   [CD:D8:E8:19:9E:BA] 26084, battery 2.69v, active, Chicken Roost
@@ -31,14 +31,14 @@ Sensors:
   [D0:3E:FC:46:1C:80] 74151, battery 2.94v, active, Chicken Run
   [D5:39:3E:73:4D:9E] 31452, battery 2.83v, active, Shop
 Last sample:
-Iola Intake, 16965: observed=2019-06-15T17:33:04.000Z, temperature=65.12, humidity=70.29
-Chicken Roost, 26084: observed=2019-06-15T17:33:49.000Z, temperature=72.34, humidity=73.35
-Iola Basement, 43298: observed=2019-06-15T17:33:20.000Z, temperature=105.7, humidity=18.08
-Bee Room, 26056: observed=2019-06-15T17:33:03.000Z, temperature=57.15, humidity=68.95
-Iola Exhaust, 43558: observed=2019-06-15T17:33:39.000Z, temperature=104.78, humidity=19.27
-Shed Outside, 17040: observed=2019-06-15T17:33:03.000Z, temperature=62.52, humidity=83.51
-Chicken Run, 74151: observed=2019-06-15T17:32:53.000Z, temperature=57.54, humidity=68.4
-Shop, 31452: observed=2019-06-15T17:33:36.000Z, temperature=57.13, humidity=68.77
+  Iola Intake, 16965: observed=2019-06-15T17:41:15.000Z, temperature=65.34, humidity=72
+  Chicken Roost, 26084: observed=2019-06-15T17:40:47.000Z, temperature=73.39, humidity=71.51
+  Iola Basement, 43298: observed=2019-06-15T17:39:20.000Z, temperature=105.86, humidity=18.08
+  Bee Room, 26056: observed=2019-06-15T17:41:04.000Z, temperature=57.23, humidity=69.07
+  Iola Exhaust, 43558: observed=2019-06-15T17:41:16.000Z, temperature=105.53, humidity=18.84
+  Shed Outside, 17040: observed=2019-06-15T17:41:00.000Z, temperature=62.92, humidity=84.42
+  Chicken Run, 74151: observed=2019-06-15T17:40:56.000Z, temperature=57.63, humidity=68.4
+  Shop, 31452: observed=2019-06-15T17:40:39.000Z, temperature=57.15, humidity=68.74
 ```
 
 
