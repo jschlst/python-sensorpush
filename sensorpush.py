@@ -27,10 +27,7 @@ from __future__ import absolute_import
 import os, sys, re, getopt, getpass
 import time
 from datetime import datetime, timedelta
-import oauth2
 import urllib2
-import urlparse
-import urllib
 import json
 
 
@@ -364,7 +361,7 @@ def main():
     # 7: print most recent sample from each sensor
     print("Last sample:")
     for d in sensor.sensorList:
-        print("%s, %s" % (d.name, d.getLastSample()))
+        print("  %s, %s" % (d.name, d.getLastSample()))
 
     sys.exit(0)
 
